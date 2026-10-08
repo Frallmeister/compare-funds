@@ -45,4 +45,14 @@ Jag vill kunna svara på följdande frågor:
 
 ## Övriga info
 - Långsiktigt sparande dvs minst 30 år.
-- Jag har redan ett ISK med innehav värda 630000 kr. Avsikten är att flytta innehaven från fondkontot till detta kontot. 
+- Jag har redan ett ISK med innehav värda 630000 kr. Avsikten är att flytta innehaven från fondkontot till detta kontot.
+
+## Plan för att flytta innehav till ISK
+
+1. Sälj av innehavet som ger en skatteskuld vid 1 juli.
+2. För över pengarna från försäljningen till ISK EFTER 1 juli.
+3. Räkna ut vad skatteskulden blir och investera det beloppet i en lågriskfond.
+4. Investera resterande belopp tillsammans med mitt övriga långsiktiga sparande på ISK.
+5. Sälj lågriskplaceringen strax innan årsskiftet. För över beloppet som motsvarar skatteskulden till ett vanligt konto (betalkonto eller sparkonto med fria uttag) INNAN 1 januari 2027.
+6. Investera eventuellt överskott från lågriskplaceringen i det vanliga långsiktiga ISK-sparande.
+7. Betala in skuldkvoten till skattekontot direkt efter nyår. Det finns ingen anledning att låta det ligga på sparkontot fram till februari eftersom det finns en risk att man glömmer att betala in det i tid.
